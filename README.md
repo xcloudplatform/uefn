@@ -2,7 +2,7 @@
 
 How to play tutorial: https://dev.epicgames.com/documentation/en-us/fortnite-creative/playing-games-in-fortnite-creative
 
- - https://dev.epicgames.com/documentation/en-us/fortnite-creative/onboarding-tutorial-in-fortnite-creative
+ - https://dev.epicgames.com/documentation/en-us/fortnite-creative/onboarding-tutorial-in-fortnite-creative . You can play this sample using island code 9331-7614-5936.
  - https://dev.epicgames.com/documentation/en-us/fortnite-creative/pinbrawl-in-fortnite-creative 
 The island code for this tutorial is 5433-9518-6615
  - https://dev.epicgames.com/documentation/en-us/fortnite-creative/shootem-up-knockem-down-in-fortnite-creative The sample island code for Shoot'em Up, Knock'em Down is 2661 3872 5705
