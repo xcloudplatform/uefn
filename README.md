@@ -1,3 +1,10 @@
+ - https://dev.epicgames.com/community/learning/tutorials/1x1r/fortnite-creating-a-capture-the-flag-game-mode-in-uefn
+ - https://dev.epicgames.com/community/learning/tutorials/739b/fortnite-creating-a-box-fight-game-mode-in-uefn
+ - https://dev.epicgames.com/community/learning/tutorials/mJLB/fortnite-viewport-controls
+ - https://dev.epicgames.com/community/learning/tutorials/m2lL/fortnite-your-first-material-in-uefn
+ - https://metahuman.unrealengine.com/
+ - 
+
 # Unreal Engine for Fortnite
 
 A basic repository to accumulate a knowledgebase around UEFN and to track public API diffs.
