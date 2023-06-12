@@ -1,9 +1,26 @@
+## sample Fortnite Creative islands
+
+How to play tutorial: https://dev.epicgames.com/documentation/en-us/fortnite-creative/playing-games-in-fortnite-creative
+
+ - https://dev.epicgames.com/documentation/en-us/fortnite-creative/onboarding-tutorial-in-fortnite-creative
+ - https://dev.epicgames.com/documentation/en-us/fortnite-creative/pinbrawl-in-fortnite-creative 
+The island code for this tutorial is 5433-9518-6615
+ - https://dev.epicgames.com/documentation/en-us/fortnite-creative/shootem-up-knockem-down-in-fortnite-creative The sample island code for Shoot'em Up, Knock'em Down is 2661 3872 5705
+ - https://dev.epicgames.com/documentation/en-us/fortnite-creative/shooting-gallery-in-fortnite-creative island code for this tutorial is 7321-1576-4110
+ - 
+
+## guides
+
  - https://dev.epicgames.com/community/learning/tutorials/1x1r/fortnite-creating-a-capture-the-flag-game-mode-in-uefn
  - https://dev.epicgames.com/community/learning/tutorials/739b/fortnite-creating-a-box-fight-game-mode-in-uefn
  - https://dev.epicgames.com/community/learning/tutorials/mJLB/fortnite-viewport-controls
  - https://dev.epicgames.com/community/learning/tutorials/m2lL/fortnite-your-first-material-in-uefn
- - https://metahuman.unrealengine.com/
  - https://dev.epicgames.com/documentation/en-us/uefn/onboarding-guide-to-programming-with-verse-in-unreal-editor-for-fortnite
+
+## tools
+
+ - https://metahuman.unrealengine.com/
+
 
 # Unreal Engine for Fortnite
 
