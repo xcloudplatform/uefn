@@ -3,7 +3,7 @@
  - https://dev.epicgames.com/community/learning/tutorials/mJLB/fortnite-viewport-controls
  - https://dev.epicgames.com/community/learning/tutorials/m2lL/fortnite-your-first-material-in-uefn
  - https://metahuman.unrealengine.com/
- - 
+ - https://dev.epicgames.com/documentation/en-us/uefn/onboarding-guide-to-programming-with-verse-in-unreal-editor-for-fortnite
 
 # Unreal Engine for Fortnite
 
